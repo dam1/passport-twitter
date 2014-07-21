@@ -30,7 +30,7 @@
   ],
   "main": "./lib",
   "dependencies": {
-    "passport-oauth1": "1.x.x",
+    "passport-oauth1": "dam1/passport-oauth1",
     "xtraverse": "0.1.x"
   },
   "devDependencies": {
